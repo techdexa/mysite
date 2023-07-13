@@ -1,8 +1,8 @@
 {
   "name": "ejs-challenge",
-  "engines": {
-    "node": ">=NODE_JS_VERSION"
-},
+   "engines": {
+    "node": ">=14.20.1"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
