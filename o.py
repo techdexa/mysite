@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import subprocess
 
 def clone_repos_from_file(file_path):
